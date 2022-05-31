@@ -1,0 +1,50 @@
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\bin\Debug\Server.exe.config
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\bin\Debug\Server.exe
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\bin\Debug\Server.pdb
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.exe
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.pdb
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.ServForm.resources
+C:\Users\DBLAB-E\source\repos\Cshap Project\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\bin\Debug\Server.exe.config
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\bin\Debug\Server.exe
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\bin\Debug\Server.pdb
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.ServForm.resources
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.exe
+C:\Users\DBLAB-E\source\repos\Cshap Server\Server\obj\Debug\Server.pdb
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\bin\Debug\Server.exe.config
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\bin\Debug\Server.exe
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\bin\Debug\Server.pdb
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.ServForm.resources
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.exe
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Server 백업\Server\obj\Debug\Server.pdb
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\bin\Debug\Server.exe.config
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\bin\Debug\Server.exe
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\bin\Debug\Server.pdb
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.ServForm.resources
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.exe
+C:\Users\DBLAB-E\Desktop\프로젝트 관련 자료\Cshap Project\Server\obj\Debug\Server.pdb
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\bin\Debug\Server.exe.config
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\bin\Debug\Server.exe
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\bin\Debug\Server.pdb
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.ServForm.resources
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.exe
+C:\Users\DBLAB-E\Desktop\C# 프로젝트\C# 프로젝트\Cshap Project\Server\obj\Debug\Server.pdb
