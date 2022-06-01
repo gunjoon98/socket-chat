@@ -8,7 +8,7 @@ namespace Client
 {
     class ServAddress
     {
-        public static string ip = "113.198.236.247";
+        public static string ip = "127.0.0.1";
         public static int port = 8000;
     }
 }
