@@ -26,4 +26,9 @@ loop back 주소로 설정되어 있으며 같은 컴퓨터에서 서버와 클�
 <img width="400" height="400" src="https://user-images.githubusercontent.com/48176143/171321997-f3506ddb-084b-4df4-acef-1e9cb2de7f78.png">
 <img width="400" height="400" src="https://user-images.githubusercontent.com/48176143/171322161-9f3bf948-6b72-4fd9-aac0-3005e63bc590.PNG">
 
+## Async Socket
+<img width="750" height="600" src="https://user-images.githubusercontent.com/48176143/171337748-62623b69-91d3-48da-863d-7cf1a300f3f7.PNG">
 
+연결 요청 시 sub-thread에서 연결 요청을 처리하고 다른 연결 요청을 처리하기 위한 BeginAccept 함수를 호출합니다.   
+소켓 데이터 수신 시 sub-thread에서 수신 작업을 처리하고 수신을 계속하기 위해 BeginRecive 함수를 호출합니다.   
+따라서 sub-thread에서 반복적으로 sub-thread를 생성시켜 연결 요청과 수신 작업을 수행하도록 합니다.
