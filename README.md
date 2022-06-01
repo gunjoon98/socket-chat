@@ -32,4 +32,3 @@ loop back 주소로 설정되어 있으며 같은 컴퓨터에서 서버와 클�
 연결 요청 시 sub-thread에서 연결 요청을 처리하고 다른 연결 요청을 처리하기 위한 BeginAccept 함수를 호출합니다.   
 소켓 데이터 수신 시 sub-thread에서 수신 작업을 처리하고 수신을 계속하기 위해 BeginRecive 함수를 호출합니다.   
 따라서 sub-thread에서 반복적으로 sub-thread를 생성시켜 연결 요청과 수신 작업을 수행하도록 합니다.
-test
